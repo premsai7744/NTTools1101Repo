@@ -7,4 +7,7 @@ public class Payment {
 	public String doUpiPayment() {
 		return "Upi Payment is done";
 	}
+	public String payPall(String url) {
+		return "Paypall integration is done";
+	}
 }
